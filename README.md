@@ -11,7 +11,7 @@ import discord
 client = discord.Client()
 
 # 생성된 토큰을 입력해준다.
-token = "ODM0MjYzMzQzNzE1MDU3NjY0.YH-WSQ.EfLttL9pEAEN7d9fCOP-IYc7Bt0"
+token = "ODM0MjYzMzQzNzE1MDU3NjY0.YH-WSQ.i1QwcXyndcVqrhbzkq3fc0ZZlSk"
 
 # 봇이 구동되었을 때 보여지는 코드
 @client.event
